@@ -17,7 +17,7 @@ To get started with CrowdSurf, simply visit our website [CrowdSurf](https://thef
 
 ## Installation
 CrowdSurf is a web-based platform and does not require any installation. Simply access the website through your preferred web browser to start using it.
-Below is a screenshopt of CrowdSurf application
+Below is a screenshot of CrowdSurf application
 ![CrowdSurf Application screenshot](https://github.com/TheFoodanese/G10-Project-1/assets/150956638/74e0ef8e-56d6-46ac-a616-ed7b8fec28a1)
 
 
